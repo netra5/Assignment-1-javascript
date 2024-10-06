@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #4a90e2;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#storyDisplay {
+    font-size: 1.5em;
+    color: #333;
+    margin-top: 20px;
+    border: 2px solid #4a90e2;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
